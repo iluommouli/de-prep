@@ -1,0 +1,16 @@
+# secrets
+.env
+
+# data – never committed
+data/
+
+# python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+
+# editor / OS
+.vscode/
+.DS_Store
